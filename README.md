@@ -7,11 +7,11 @@
 	<p>Christine Hall, Dinh Duong, Joe Dahruj and Nathan Leopard</p>
 </br>
 <H2>Project Description/Outline:</H2>
-	<p>Using the skills and tools learnt in our Data Analytics course work such as Python, Pandas, Matplotlib and various frameworks and libraries we will explore ways to collect data. We will use data readily available in <a href="https://www.zillow.com/research/data/">Zillow</a> and <a href="http://www.fldoe.org/accountability/accountability-reporting/school-grades/">Florida Department of Education</a> to merge data sets.</p>
-    <p>Using the datasets we will compute the information based off of zip codes and grade results and provide data vizualization in orde to answer the main question "<b>Does housing prices affect the quality of schools withing specific zip codes in the state of Florida?</b>".</p>
+	<p>Using the skills and tools learnt in our Data Analytics course work such as Python, Pandas, Matplotlib, various frameworks and libraries we will explore ways to collect data. We will use data readily available on <a href="https://www.zillow.com/research/data/">Zillow</a> and <a href="http://www.fldoe.org/accountability/accountability-reporting/school-grades/">Florida Department of Education</a> to merge data sets.</p>
+    <p>Using the datasets we will compute the information based off of zip codes and grade results to provide data vizualization in order to answer the main question "<b>Does housing prices affect the quality of schools withing specific zip codes in the state of Florida?</b>".</p>
 </br>    
 <H2>Scope of Research:</H2>
-	<p>An analysis of the relationship of single family housing prices to the quality of public schools offered Florida.</p>
+	<p>An analysis of the relationship of single family housing prices to the quality of public schools offered in Florida.</p>
 </br>
 <H2>Research questions to answer:</H2>
 	<ul>
