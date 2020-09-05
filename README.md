@@ -1,4 +1,4 @@
-<H1>UCF Data Vizualization - Project 1</H1>
+<H1>Florida Housing vs. Public Schools</H1>
 
 <H2>Project Title:</H2>
 <p>Quality of Public Schools versus Single Family Housing Prices in <b>Florida</b>.</p>
